@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//simple-movie-suggestion-react-website/static/css/main.191eb62b.chunk.css",
+    "main.js": "//simple-movie-suggestion-react-website/static/js/main.82245e81.chunk.js",
+    "main.js.map": "//simple-movie-suggestion-react-website/static/js/main.82245e81.chunk.js.map",
+    "runtime-main.js": "//simple-movie-suggestion-react-website/static/js/runtime-main.fdfb9963.js",
+    "runtime-main.js.map": "//simple-movie-suggestion-react-website/static/js/runtime-main.fdfb9963.js.map",
+    "static/js/2.b7cd1c65.chunk.js": "//simple-movie-suggestion-react-website/static/js/2.b7cd1c65.chunk.js",
+    "static/js/2.b7cd1c65.chunk.js.map": "//simple-movie-suggestion-react-website/static/js/2.b7cd1c65.chunk.js.map",
+    "static/js/3.96210355.chunk.js": "//simple-movie-suggestion-react-website/static/js/3.96210355.chunk.js",
+    "static/js/3.96210355.chunk.js.map": "//simple-movie-suggestion-react-website/static/js/3.96210355.chunk.js.map",
+    "index.html": "//simple-movie-suggestion-react-website/index.html",
+    "static/css/main.191eb62b.chunk.css.map": "//simple-movie-suggestion-react-website/static/css/main.191eb62b.chunk.css.map",
+    "static/js/2.b7cd1c65.chunk.js.LICENSE.txt": "//simple-movie-suggestion-react-website/static/js/2.b7cd1c65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdfb9963.js",
+    "static/js/2.b7cd1c65.chunk.js",
+    "static/css/main.191eb62b.chunk.css",
+    "static/js/main.82245e81.chunk.js"
+  ]
+}
